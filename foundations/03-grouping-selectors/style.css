@@ -6,10 +6,10 @@ button
 
 .backgroundOne 
 {
-    background-color: black;
+    background: black;
 }
 
 .backgroundTwo
 {
-    background-color: yellow;
+    background: yellow;
 }
