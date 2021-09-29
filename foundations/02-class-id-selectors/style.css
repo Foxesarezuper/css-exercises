@@ -1,0 +1,19 @@
+p {
+    background-color: #cb7c6b;
+    font-family: Verdana, sans-serif;
+}
+
+#makeblue {
+    color: #3050a7;
+    font-size: 36px;
+}
+
+.makeItBigger {
+    font-size: 24px;
+}
+
+#makeunique {
+    background-color: #a6e639;
+    font-size: 24px;
+    font-weight: bold;
+}
